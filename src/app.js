@@ -28,7 +28,8 @@ app.get('', (req,res) => {
 app.get('/about', (req,res) => {
     res.render('about', {
         title: 'About me',
-        name: 'Chris Weng'
+        name: 'Chris Weng',
+        message: 'Hi, I am Chris. A linguist interested in programming.'
     })
 })
 

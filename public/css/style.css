@@ -59,7 +59,7 @@ button {
     width: 100px;
     height: 36px;
     position: absolute;
-    left: 800px;
+    left: 700px;
     bottom: 150px;
     border-radius: 20px;
     animation: clouddrift 4s infinite;

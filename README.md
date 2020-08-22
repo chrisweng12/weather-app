@@ -14,7 +14,7 @@
 4. Body tempurature
 ## Click the following link to visit this app: https://weng-weather-app.herokuapp.com/
 
-## Reference
+## References
 ### API
 [weatherstack](https://weatherstack.com/)<br>
 [mapbox](https://www.mapbox.com/)

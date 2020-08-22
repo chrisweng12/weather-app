@@ -6,6 +6,7 @@
 ![node-current](https://img.shields.io/node/v/nodemon?color=red)
 
 # weather-app
+A web app which you can search for the weather condition given your location
 ## This is a app which you can search for the weather in your given location.
 ### The information contains...
 1. Location
